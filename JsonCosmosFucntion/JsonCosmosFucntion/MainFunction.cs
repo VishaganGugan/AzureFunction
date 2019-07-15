@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace JsonCosmosFucntion
 {
-    public static class Function1
+    public static class MainFunction
     {
         
         [FunctionName("Function1")]
